@@ -14,7 +14,7 @@
  * Module dependencies.
  */
 
-var parse = require('co-body');
+var parse = require('@telemarket-llc/co-body');
 var copy = require('copy-to');
 
 /**

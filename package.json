@@ -1,6 +1,6 @@
 {
-  "name": "koa-bodyparser",
-  "version": "4.2.0",
+  "name": "@telemarket-llc/koa-bodyparser",
+  "version": "1.0.0",
   "description": "a body parser for koa",
   "main": "index.js",
   "scripts": {
@@ -35,7 +35,7 @@
     "supertest": "^3.0.0"
   },
   "dependencies": {
-    "co-body": "^5.1.0",
+    "@telemarket-llc/co-body": "^1.0.0",
     "copy-to": "^2.0.1"
   },
   "engines": {
